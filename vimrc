@@ -1,7 +1,7 @@
 " Pathogen
 execute pathogen#infect()
 call pathogen#helptags() 	" Generate helptags for everything in 'runtimepath'
-
+colorscheme icansee
 " ### Sanity config (don't obliterate this)
 set nocompatible
 set encoding=utf-8
