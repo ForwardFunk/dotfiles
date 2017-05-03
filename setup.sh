@@ -1,3 +1,3 @@
-ln -s .vim/vimrc ~/.vimrc
-ln -s .vim ~/.vim
-ln -s .tmux.conf ~/.tmux.conf
+ln -s ~/dotfiles/.vim/vimrc ~/.vimrc
+ln -s ~/dotfiles/.vim ~/.vim
+ln -s ~/dotfiles/.tmux.conf ~/.tmux.conf
