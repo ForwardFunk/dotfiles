@@ -1,0 +1,6 @@
+[submodule "vim/.vim/bundle/vim-dark_eyes"]
+	path = vim/.vim/bundle/vim-dark_eyes
+	url = https://github.com/bf4/vim-dark_eyes.git
+[submodule "vim/.vim/bundle/space-vim-dark"]
+	path = vim/.vim/bundle/space-vim-dark
+	url = https://github.com/liuchengxu/space-vim-dark.git

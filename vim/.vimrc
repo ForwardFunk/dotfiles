@@ -1,7 +1,7 @@
 " Pathogen
 execute pathogen#infect()
 call pathogen#helptags() 	" Generate helptags for everything in 'runtimepath'
-colorscheme icansee
+colorscheme space-vim-dark
 
 autocmd FileType python map <buffer> <F6> :call Flake8():Flake8UnplaceMarkers()<CR>
 " ### Sanity config (don't obliterate this)
